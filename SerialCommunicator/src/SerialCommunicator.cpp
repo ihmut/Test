@@ -92,6 +92,6 @@ int main(int argc, char **argv)
 {
     readTest();
     writeTest();
-    communicatorTest();
+    //communicatorTest();
 
 }
